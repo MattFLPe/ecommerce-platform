@@ -1,2 +1,2 @@
 # ecommerce-platform
- Implementing an E-Commerce platform with React and Spring boot.
+ Implementing an E-Commerce platform with Angular and Spring boot.
